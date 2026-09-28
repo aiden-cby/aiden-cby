@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+2026/09/28
+I'm currently learning Front-End Development.
+## 🛠️ Skill
+HTML · CSS · JavaScript · Git · GitHub
+## 📚 Currently Learning
+JavaScript → Vue → React
+## 🚀 Projects
+Coming soon...
